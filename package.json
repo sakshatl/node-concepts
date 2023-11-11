@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-concepts",
+  "version": "1.0.0",
+  "author": "sakshatl",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  }
+}
