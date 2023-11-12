@@ -1,5 +1,5 @@
-console.log('Hello World');
-console.log("=======");
+// console.log('Hello World');
+// console.log("=======");
 
 // === LOCAL MODULES ====
 // require('./concepts/1-local-modules/1-local-modules');
@@ -22,4 +22,12 @@ console.log("=======");
 // require('./concepts/5-file-system/2-file-system-using-promises');
 // require('./concepts/5-file-system/3-streams');
 // require('./concepts/5-file-system/4-pipes');
-require('./concepts/5-file-system/5-transform-stream');
+// require('./concepts/5-file-system/5-transform-stream');
+
+// === CLUSTER MODULE ====
+// require('./concepts/7-cluster-module/without-cluster');
+// require('./concepts/7-cluster-module/with-cluster');
+
+
+// === WORKER THREADS MODULE =====
+// require('./concepts/8-worker-threads/main-thread');
