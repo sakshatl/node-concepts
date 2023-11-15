@@ -31,3 +31,10 @@
 
 // === WORKER THREADS MODULE =====
 // require('./concepts/8-worker-threads/main-thread');
+
+// === NODE EVENT LOOP =====
+
+// require('./concepts/9-node-event-loop/1-callback-queue');
+// require('./concepts/9-node-event-loop/2-timer-queue');
+// require('./concepts/9-node-event-loop/3-io-queue');
+// require('./concepts/9-node-event-loop/4-check-queue');
